@@ -32,3 +32,6 @@ team_dropdown = widgets.Dropdown(
     description="Team:"
 )
 display(team_dropdown)
+
+For the full interactive notebook, see: [Will Moore – MLB Interactive Dashboard](https://github.com/moore-w/moore-w/blob/main/Will%20Moore%20-%20Final%20Project.ipynb)
+
