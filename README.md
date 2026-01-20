@@ -35,5 +35,6 @@ display(team_dropdown)
 ```
 
 
-For the full interactive notebook, see: Will Moore - Final Project.ipynb
+For the full interactive notebook, see: [Will Moore – Final Project](https://github.com/moore-w/moore-w/blob/main/Will%20Moore%20-%20Final%20Project.ipynb)
+
 
