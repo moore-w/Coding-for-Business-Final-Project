@@ -3,8 +3,10 @@ Using data from an MLB data set, I created an interactive platform that allows u
 
 
 Users can:
-- Select any MLB team from a dropdown menu of all 30 teams to view the team logo and roster
-- Choose a player from the roster and a year to view their statistics from the selected season
+- Search for any MLB team to view the team logo
+- Select a team from a dropdown menu of all 30 MLB teams
+- View the team roster with player positions
+- Choose a player from the roster and a year to view their statistics from that season
 
 # Example Code Snippet
 
