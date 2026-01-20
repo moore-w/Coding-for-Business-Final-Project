@@ -35,7 +35,7 @@ display(team_dropdown)
 ```
 
 
-
+# Sample Results
 
 <img width="592" height="301" alt="Screenshot 2026-01-20 at 5 57 14 PM" src="https://github.com/user-attachments/assets/90c46b45-d0a9-4719-8bbe-396783a49373" />
 
