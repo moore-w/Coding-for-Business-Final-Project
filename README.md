@@ -35,5 +35,5 @@ display(team_dropdown)
 ```
 
 
-For the full interactive notebook, see: 
+For the full interactive notebook, see: Will Moore - Final Project.ipynb
 
