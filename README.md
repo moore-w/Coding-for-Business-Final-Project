@@ -38,3 +38,5 @@ display(team_dropdown)
 For the full interactive notebook, see: https://github.com/moore-w/Coding-for-Business-Final-Project/blob/main/Will%20Moore%20-%20Final%20Project.ipynb
 
 
+<img width="592" height="301" alt="Screenshot 2026-01-20 at 5 57 14 PM" src="https://github.com/user-attachments/assets/90c46b45-d0a9-4719-8bbe-396783a49373" />
+
