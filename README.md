@@ -35,8 +35,19 @@ display(team_dropdown)
 ```
 
 
-For the full interactive notebook, see: https://github.com/moore-w/Coding-for-Business-Final-Project/blob/main/Will%20Moore%20-%20Final%20Project.ipynb
 
 
 <img width="592" height="301" alt="Screenshot 2026-01-20 at 5 57 14 PM" src="https://github.com/user-attachments/assets/90c46b45-d0a9-4719-8bbe-396783a49373" />
 
+
+<img width="766" height="596" alt="Screenshot 2026-01-20 at 5 57 57 PM" src="https://github.com/user-attachments/assets/86024d5e-305e-4360-8d07-c7a427b09cb5" />
+
+
+<img width="598" height="830" alt="Screenshot 2026-01-20 at 5 58 24 PM" src="https://github.com/user-attachments/assets/8f611158-ae50-4230-a977-2bf16aa01bd7" />
+
+
+<img width="1241" height="508" alt="Screenshot 2026-01-20 at 5 59 07 PM" src="https://github.com/user-attachments/assets/4596da34-0b79-4368-ba9a-b358cfcac0e4" />
+
+
+
+For the full interactive notebook, see: https://github.com/moore-w/Coding-for-Business-Final-Project/blob/main/Will%20Moore%20-%20Final%20Project.ipynb
